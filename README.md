@@ -31,17 +31,17 @@ I love the journey of transforming an RTL description into a manufacturable, tim
 ## Tech Stack
 
 ### Physical Design Tools
-![Cadence Innovus](https://img.shields.io/badge/Cadence%20Innovus-E60012?style=for-the-badge&logo=cadence&logoColor=white)
-![Synopsys ICC2](https://img.shields.io/badge/Synopsys%20IC%20Compiler%20II-1A237E?style=for-the-badge&logo=synopsys&logoColor=white)
-![Synopsys PrimeTime](https://img.shields.io/badge/Synopsys%20PrimeTime%20(STA)-0D47A1?style=for-the-badge&logo=synopsys&logoColor=white)
-![Cadence Tempus](https://img.shields.io/badge/Cadence%20Tempus-B71C1C?style=for-the-badge&logo=cadence&logoColor=white)
-![Synopsys StarRC](https://img.shields.io/badge/Synopsys%20StarRC-283593?style=for-the-badge&logo=synopsys&logoColor=white)
-![Mentor Calibre](https://img.shields.io/badge/Mentor%20Calibre%20(DRC%2FLVS)-009688?style=for-the-badge&logo=siemens&logoColor=white)
+![Cadence Innovus](https://img.shields.io/badge/Cadence%20Innovus-E60012?style=for-the-badge)
+![Synopsys ICC2](https://img.shields.io/badge/Synopsys%20IC%20Compiler%20II-1A237E?style=for-the-badge)
+![Synopsys PrimeTime](https://img.shields.io/badge/Synopsys%20PrimeTime%20(STA)-0D47A1?style=for-the-badge)
+![Cadence Tempus](https://img.shields.io/badge/Cadence%20Tempus-B71C1C?style=for-the-badge)
+![Synopsys StarRC](https://img.shields.io/badge/Synopsys%20StarRC-283593?style=for-the-badge)
+![Mentor Calibre](https://img.shields.io/badge/Mentor%20Calibre%20(DRC%2FLVS)-009688?style=for-the-badge)
 
 ### DFT Tools
-![Siemens Tessent](https://img.shields.io/badge/Siemens%20Tessent-00B5A5?style=for-the-badge&logo=siemens&logoColor=white)
-![Synopsys DFT Compiler](https://img.shields.io/badge/Synopsys%20DFT%20Compiler-1565C0?style=for-the-badge&logo=synopsys&logoColor=white)
-![Synopsys TetraMAX](https://img.shields.io/badge/Synopsys%20TetraMAX%20(ATPG)-0277BD?style=for-the-badge&logo=synopsys&logoColor=white)
+![Siemens Tessent](https://img.shields.io/badge/Siemens%20Tessent-00B5A5?style=for-the-badge)
+![Synopsys DFT Compiler](https://img.shields.io/badge/Synopsys%20DFT%20Compiler-1565C0?style=for-the-badge)
+![Synopsys TetraMAX](https://img.shields.io/badge/Synopsys%20TetraMAX%20(ATPG)-0277BD?style=for-the-badge)
 
 ### DFT Concepts
 ![Scan Insertion](https://img.shields.io/badge/Scan%20Insertion-4A148C?style=for-the-badge)
@@ -50,10 +50,10 @@ I love the journey of transforming an RTL description into a manufacturable, tim
 ![ATPG](https://img.shields.io/badge/ATPG%20%2F%20Fault%20Coverage-C2185B?style=for-the-badge)
 
 ### Languages & Scripting
-![Verilog](https://img.shields.io/badge/Verilog-B71C1C?style=for-the-badge&logo=verilog&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-D32F2F?style=for-the-badge&logo=verilog&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-B71C1C?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-D32F2F?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TCL](https://img.shields.io/badge/TCL-FF6F00?style=for-the-badge&logo=tcl&logoColor=white)
+![TCL](https://img.shields.io/badge/TCL-FF6F00?style=for-the-badge)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 ![Shell / Bash](https://img.shields.io/badge/Shell%20%2F%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -70,7 +70,7 @@ I love the journey of transforming an RTL description into a manufacturable, tim
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sri-kondapaturi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -83,7 +83,7 @@ I love the journey of transforming an RTL description into a manufacturable, tim
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriKondapaturi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SriKondapaturi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ I love the journey of transforming an RTL description into a manufacturable, tim
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sri-kondapaturi/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 

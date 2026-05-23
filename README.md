@@ -70,7 +70,7 @@ I love the journey of transforming an RTL description into a manufacturable, tim
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sri-kondapaturi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ I love the journey of transforming an RTL description into a manufacturable, tim
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=SriKondapaturi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SriKondapaturi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ I love the journey of transforming an RTL description into a manufacturable, tim
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=SriKondapaturi&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriKondapaturi&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -106,7 +106,7 @@ I love the journey of transforming an RTL description into a manufacturable, tim
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sri-kondapaturi/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?label=&message=Connect+on+LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 

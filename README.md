@@ -130,7 +130,7 @@ I'm an **ASIC Physical Design Engineer** with hands-on RTL-to-GDSII experience f
 | <img src="https://raw.githubusercontent.com/SriKondapaturi/SriKondapaturi/main/cadence-logo.png" height="40" alt="Cadence"> **Basic Static Timing Analysis v3.0** | Cadence Design Systems |
 | <img src="https://raw.githubusercontent.com/SriKondapaturi/SriKondapaturi/main/synopsys-logo.png" height="40" alt="Synopsys"> **PrimeTime Badge** | Synopsys |
 | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) **VLSI Hardware Design Masterclass with Verilog** | Udemy |
-| ![SNUG](https://img.shields.io/badge/SNUG-0E7C7B?style=flat&logo=synopsys&logoColor=white) **SNUG Silicon Valley 2026 (Virtual / On-Demand)** | Synopsys Users Group |
+| <img src="https://raw.githubusercontent.com/SriKondapaturi/SriKondapaturi/main/snug-logo.png" height="40" alt="SNUG"> **SNUG Silicon Valley 2026 (Virtual / On-Demand)** | Synopsys Users Group |
 
 ---
 

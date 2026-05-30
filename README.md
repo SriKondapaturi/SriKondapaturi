@@ -125,10 +125,10 @@ I'm an **ASIC Physical Design Engineer** with hands-on RTL-to-GDSII experience f
 
 | Certification | Issuer |
 | :--- | :--- |
-| ![Cadence](https://img.shields.io/badge/Cadence-C8102E?style=flat&logo=cadence&logoColor=white) **RTL-to-GDSII Flow v7.0 (Advanced)** | Cadence Design Systems |
-| ![Cadence](https://img.shields.io/badge/Cadence-C8102E?style=flat&logo=cadence&logoColor=white) **SystemVerilog for Design & Verification** | Cadence Design Systems |
-| ![Cadence](https://img.shields.io/badge/Cadence-C8102E?style=flat&logo=cadence&logoColor=white) **Basic Static Timing Analysis v3.0** | Cadence Design Systems |
-| ![Synopsys](https://img.shields.io/badge/Synopsys-0E7C7B?style=flat&logo=synopsys&logoColor=white) **PrimeTime Badge** | Synopsys |
+| <img src="https://raw.githubusercontent.com/SriKondapaturi/SriKondapaturi/main/cadence-logo.png" height="20" alt="Cadence"> **RTL-to-GDSII Flow v7.0 (Advanced)** | Cadence Design Systems |
+| <img src="https://raw.githubusercontent.com/SriKondapaturi/SriKondapaturi/main/cadence-logo.png" height="20" alt="Cadence"> **SystemVerilog for Design & Verification** | Cadence Design Systems |
+| <img src="https://raw.githubusercontent.com/SriKondapaturi/SriKondapaturi/main/cadence-logo.png" height="20" alt="Cadence"> **Basic Static Timing Analysis v3.0** | Cadence Design Systems |
+| <img src="https://raw.githubusercontent.com/SriKondapaturi/SriKondapaturi/main/synopsys-logo.png" height="20" alt="Synopsys"> **PrimeTime Badge** | Synopsys |
 | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) **VLSI Hardware Design Masterclass with Verilog** | Udemy |
 | ![SNUG](https://img.shields.io/badge/SNUG-0E7C7B?style=flat&logo=synopsys&logoColor=white) **SNUG Silicon Valley 2026 (Virtual / On-Demand)** | Synopsys Users Group |
 
